@@ -8,7 +8,7 @@ I am a dedicated Computer Science and Engineering student with a passion for Cyb
 My journey in Computer Science and Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a position as a Student Assistant in Cybersecurity.
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/spadda1/Detection-Lab/blob/main/README.md">Detection Lab</a>
 - SOC Automation Project
 
 ## Certifications
