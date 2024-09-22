@@ -17,9 +17,7 @@ My journey in Computer Science and Engineering has led me to develop a passion f
 - Python
 - Java
 - JavaScript
-- HTML
-- CSS
-- C
-- C++
+- HTML/CSS
+- C/C++
 
 
