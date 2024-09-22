@@ -12,9 +12,13 @@ My journey in Computer Science and Engineering has led me to develop a passion f
 - <a href="https://github.com/spadda1/inventory_tracker">Inventory Tracker</a>
 - <a href="https://github.com/spadda1/landing-page">Animated Book Landing Page</a>
 
-## Certifications
-
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity%20-%23007ACC?style=for-the-badge&logo=security&logoColor=white)
-[View Certification](https://drive.google.com/file/d/1rb0pHnrDBE7kogFHupIIbtMoB6z2zgfg/view?usp=sharing)
+## Programming Languages
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+- C
+- C++
 
 
