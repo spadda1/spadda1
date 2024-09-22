@@ -8,9 +8,10 @@ I am a dedicated Computer Science and Engineering student with a passion for Cyb
 My journey in Computer Science and Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a position as a Student Assistant in Cybersecurity.
 
 ## Projects
-- <a href="https://github.com/spadda1/Detection-Lab/blob/main/README.md">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/spadda1/lawgpt">Law GPT</a>
+- <a href="https://github.com/spadda1/inventory_tracker">Inventory Tracker</a>
+- <a href="https://github.com/spadda1/landing-page">Animated Book Landing Page</a>
 
 ## Certifications
-[![Python](https://img.shields.io/badge/-Python%2B-FF0000?style=for-the-badge&logo=Python&logoColor=white)](https://drive.google.com/file/d/1vrnEaJxjqrl9k8yZ-QCctD1ysiKAvceS/view?usp=drive_link)
+[![Cybersecurity](https://img.shields.io/badge/-Python%2B-FF0000?style=for-the-badge&logo=Python&logoColor=white)](https://drive.google.com/file/d/1rb0pHnrDBE7kogFHupIIbtMoB6z2zgfg/view?usp=sharing)
 
